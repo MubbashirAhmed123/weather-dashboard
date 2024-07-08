@@ -21,6 +21,6 @@ A React-based Weather Dashboard application that provides current weather inform
 - Material-UI
 - Chart.js
 - OpenWeatherMap API
-- Teleport API
+
 
 
