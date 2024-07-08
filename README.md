@@ -12,7 +12,7 @@ A React-based Weather Dashboard application that provides current weather inform
 
 ## Demo
 
-[Insert Demo URL here]
+[https://mubbashirahmed123.github.io/weather-dashboard/]
 
 
 ## Technologies Used
